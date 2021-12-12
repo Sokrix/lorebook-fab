@@ -1,8 +1,10 @@
-Trading Card Games are an incredible medium for bringing people together. Their unifying force transcends age, race, religion,
-gender and even social status, through a common language of "playing great games".
+1 -
 
 
---
+Trading Card Games are an incredible medium for bringing people together. Their unifying force transcends age, race, religion, gender and even social status, through a common language of "playing great games".
+
+
+3 -
 
 
 THE NEW CLASSIC TCG
@@ -10,12 +12,13 @@ Flesh and Blood
 WELCOME TO RATHE
 
 
--
+4 -
 
 
 [MISSING PAGE]
 
--
+
+5 -
 
 
 WELCOME TO RATHE
@@ -49,99 +52,57 @@ Developement Concepts
 Arcane Rising 2020
 
 
--
+6 -
 
 
 WORLD OF RATHE
 
-Long ago, humans arrived on the shores of Rathe from a distant land, seeking a place to build 
-their homes. They found a world of vast mountain ranges and volcanic plains, dense jungles 
-and sheer cliffs, verdant meadows and iridescent forests. This is Rathe, a land fuelled by 
-magic. Once home to incredible beings beyond imagination, humans have overtaken the land, 
-spreading across the continent and changing the land around them. Some learned to harness the 
-innate magic in this world anal wield it in battle, others choose to rely on technology and human 
-innovation.
+Long ago, humans arrived on the shores of Rathe from a distant land, seeking a place to build their homes. They found a world of vast mountain ranges and volcanic plains, dense jungles and sheer cliffs, verdant meadows and iridescent forests. This is Rathe, a land fuelled by magic. Once home to incredible beings beyond imagination, humans have overtaken the land, spreading across the continent and changing the land around them. Some learned to harness the innate magic in this world anal wield it in battle, others choose to rely on technology and human innovation.
 
 
--
+7 -
 
 
-Once, the humans of this world were at war, clashing in devastating battles that 
-decimated the land. for a time, it almost seemed as if humanity would be incapable of living 
-alongside one another - but after many hundreds ofyears, Rathe finally entered a new era of 
-peace. The people of Misterid withdrew into the mountains, Aria erected great barriers 
-to protect their realm from outsiders, and the kingdom of Solana shifted its focus to 
-spreading the Light. Volcor's empire unravelled into a state of constant Warfare, as its many 
-Generals fought amongst themselves for land dnd resources, while for to the north, a glittering 
-city of copper and glass emerged, calling to like-minded individuals who looked toward the future.
+Once, the humans of this world were at war, clashing in devastating battles that decimated the land. For a time, it almost seemed as if humanity would be incapable of living alongside one another - but after many hundreds of years, Rathe finally entered a new era of peace. The people of Misteria withdrew into the mountains, Aria erected great barriers to protect their realm from outsiders, and the kingdom of Solana shifted its focus to spreading the Light. Volcor's empire unravelled into a state of constant warfare, as its many Generals fought amongst themselves for land and resources, while far to the north, a glittering city of copper and glass emerged, calling to like-minded individuals who looked toward the future.
 
-Now, this era of peace threatens to descend into chaos once more. The people of Rathe have become 
-restless as seeds of dissent take root across the continent, and the world balances on the brink of 
-war once again.
+Now, this era of peace threatens to descend into chaos once more. The people of Rathe have become restless as seeds of dissent take root across the continent, and the world balances on the brink of war once again.
 
 
--
+8 -
 
+REGIONS
 
 SOLANA
-At the centre of Rathe lies Solana, a radiant beacon of hope in a world on the 
-brink of chaos. For thousands of years, it has thrived under the guidance of devout 
-scholars, seeking to spread the glory and teachings of Sol throughout 
-Rathe, and unite humanity under a single banner.
+At the centre of Rathe lies Solana, a radiant beacon of hope in a world on the brink of chaos. For thousands of years, it has thrived under the guidance of devout scholars, seeking to spread the glory and teachings of Sol throughout Rathe, and unite humanity under a single banner.
 
 SAVAGE LANDS
-A primordial jungle, this treacherous and unforgiving landscape is filled with hidden 
-dangers and horrific beasts. From massive predators to vicious scavengers, 
-poisonous fiingi to carnivorous plants, the Savage Lands is home to some of the 
-most treacherous wildlife known to Rathe.
+A primordial jungle, this treacherous and unforgiving landscape is filled with hidden dangers and horrific beasts. From massive predators to vicious scavengers, poisonous fungi to carnivorous plants, the Savage Lands is home to some of the most treacherous wildlife known to Rathe.
 
 METRIX
-A vibrant and bustling city, Metrix is the largest hub of commerce on the 
-continent, taking pride in the pursuit of progress and the future of technology. Whether 
- scientist or inventor, merchant or miner, Metrix calls to all those seeking 
-their fortune and the promise ofa better tomorrow.
+A vibrant and bustling city, Metrix is the largest hub of commerce on the continent, taking pride in the pursuit of progress and the future of technology. Whether scientist or inventor, merchant or miner, Metrix calls to all those seeking their fortune and the promise of a better tomorrow.
 
 DEMONASTERY
-Far beyond the shores of Rathe lies an island shrouded in mist, a massive, derelict 
-manor looming over the desolate landscape. The Demonastery calls to magicians 
-and scientists alike, offering a place to study taboo and forbidden subjects without 
-the threat of punishment or retribution.
+Far beyond the shores of Rathe lies an island shrouded in mist, a massive, derelict manor looming over the desolate landscape. The Demonastery calls to magicians and scientists alike, offering a place to study taboo and forbidden subjects without the threat of punishment or retribution.
 
 ARIA
-A fantastical realm where the landscape is ever-changing, fuelled by a magical energy known 
-as the Flow. Amongst the peaceful villages of Aria, celebrations and festivals are a 
-regular occurrence, filled with performers, musicians and entertainers.
+A fantastical realm where the landscape is ever-changing, fuelled by a magical energy known as the Flow. Amongst the peaceful villages of Aria, celebrations and festivals are a regular occurrence, filled with performers, musicians and entertainers.
 
 MISTERIA
-Among the mountain ranges of Misteria lies a hidden world, concealed hy a thick veil of 
-mists. Removed from the struggles and conflicts of the outside world, they 
- find satisfaction in introspection and self-discipline, training 
-rigorously to strengthen their bodies and sharpen their minds.
+Among the mountain ranges of Misteria lies a hidden world, concealed by a thick veil of mists. Removed from the struggles and conflicts of the outside world, they find satisfaction in introspection and self-discipline, training rigorously to strengthen their bodies and sharpen their minds.
 
 PITS
-Deep beneath the city of Metrix, centuries of mining have left a series of massive 
- underground caverns. Thieves. mercenaries, slavers and smugglers have settled 
-within the darkened caverns of the Pits, providing all manner of immoral 
-and illegal services to the world above.
+Deep beneath the city of Metrix, centuries of mining have left a series of massive underground caverns. Thieves, mercenaries, slavers and smugglers have settled within the darkened caverns of the Pits, providing all manner of immoral and illegal services to the world above.
 
 VOLCOR
-Rivers of lava run throughout Volcor, pooling into massive lakes of molten magma. 
-The citiZens of Volcor are resigned to a life of servitude under the Generals, 
-locked in constant warfare. battling for their lives beneath the watchful gaze of 
-the roya! family.
+Rivers of lava run throughout Volcor, pooling into massive lakes of molten magma. The citizens of Volcor are resigned to a life of servitude under the Generals, locked in constant warfare, battling for their lives beneath the watchful gaze of the royal family.
 
 
--
+9 -
 
 
 PROFESSIONS
 
-In a world plagued by war and conflict, the people of Rathe developed ways to keep 
-themselves safe, and figh t back against their enemies. Even after centuries of peace, 
-these professions live on, passed down from generation to generation, evolving with 
-each passing year. Where some pursued a more offensive profession, relying on weapons and 
-power, others took the path ofdefense, finding ways to protect themselves and aide their allies in 
-battle.
+In a world plagued by war and conflict, the people of Rathe developed ways to keep themselves safe, and fight back against their enemies. Even after centuries of peace, these professions live on, passed down from generation to generation, evolving with each passing year. Where some pursued a more offensive profession, relying on weapons and power, others took the path of defense, finding ways to protect themselves and aide their allies in battle.
 
 ALCHEMIST
 
@@ -169,25 +130,19 @@ RANGER
 
 AND MANY MORE
 
-Whether you draw power from magic and spellcasting, wielding any nuiiiber of manmade weapons, or 
-by utilising the power within, the outcome is the same. In a world plagued by conflict, you must 
-fight for the chance to determine your fate. Will you succumb to the machinations of others, or 
-will you choose your own path? Pick up your sword and prepare for battle; for no matter where you 
-run, War will find you.
+Whether you draw power from magic and spellcasting, wielding any number of manmade weapons, or by utilising the power within, the outcome is the same. In a world plagued by conflict, you must fight for the chance to determine your fate. Will you succumb to the machinations of others, or will you choose your own path? Pick up your sword and prepare for battle; for no matter where you run, war will find you.
 
 
--
+11 -
 
 
 SOLANA
 
 KINGDOM OF ILLUMINATION
 
-Legends speak of blessed pilgrims from a distant land, drawn to Rathe by the will of Sol.
-Upon sacred ground, they built Solana, a shining Kingdom that would stand eternal against the Shadow.
+Legends speak of blessed pilgrims from a distant land, drawn to Rathe by the will of Sol. Upon sacred ground, they built Solana, a shining Kingdom that would stand eternal against the Shadow.
 
-The city has stood tall for thousands of years, thriving under guidance of devout scholars and wizards of light. Knights and templars patrol its walls,
-defending it from those who would trespass against divine purpose.
+The city has stood tall for thousands of years, thriving under the guidance of devout scholars and wizards of light. Knights and templars patrol its walls, defending it from those who would trespass against its divine purpose.
 
 One day, the light of Sol will radiate throughout the land, and bring blessings to all of humanity.
 
@@ -195,21 +150,20 @@ One day, the light of Sol will radiate throughout the land, and bring blessings 
 
 TO BE A SOLANIAN
 
-The people of Solana honour Sol in every aspect of their lives. From the young to the old, scholars to farmers, from those who live within its walls
-to those who live beyond; all rejoice under the infinite wisdom and glory of Sol.
+The people of Solana honour Sol in every aspect of their lives. From the young to the old, scholars to farmers, from those who live within its walls to those who live beyond; all rejoice under the infinite wisdom and glory of Sol.
 
-Solanians take great pride in upholding Sol's will, believing that they are Sol's divine emissaries. Each Solanian must act with courage and honour,
-as they are living embodiments of Sol.
+Solanians take great pride in upholding Sol's will, believing that they are Sol's divine emissaries. Each Solanian must act with courage and honour, as they are living embodiments of Sol.
 
-All who fully embrace Sol's light are welcomed by the people of Solana as one of their own. Those still on the path to illumination are instead given 
-a place among Solana's outer villages.
+Carrying the glory of Sol within their hearts, they seek to spread the teachings of the light to the rest of humanity, and welcome any who seek out the blessing of Sol.
+
+All who fully embrace Sol's light are welcomed by the people of Solana as one of their own. Those still on the path to illumination are instead given a place among Solana's outer villages.
 
 These settlements, as well as any community that would embrace Sol's divine light are granted protection by the power of Solana.
 
 /]
 
 
--
+12 -
 
 
 A RADIANT KINGDOM
@@ -223,7 +177,7 @@ Beyond the city is darkness. Crime, corruption, greed, and all manner of evil. W
 But there is still hope. Hope in the Solanians. Hope for a future of redemption and salvation.
 
 
--
+13 -
 
 
 THE GOLDEN CITY
@@ -256,7 +210,7 @@ The Golden Fields
 Beyond the outer walls are grand golden fields, numerous villages and towns under the protection and guidance of Solana
 
 
--
+14 -
 
 
 SOLARIUM
@@ -268,9 +222,82 @@ AMPHITHEATRE
 Down the length of the Great Hall, beneath vaulted arches, stands a great open door. Within, a massive structure of pale marble and shining stone; the Amphitheatre. Located at the heart of the Solarium, it is a welcome sight for all who would seek out the wisdom of Sol. Even standing at the highest level of the Amphitheatre, one can still clearly hear the words spoken at its ground floor. Through the magic of Sol, the Grand Magister can address his people, heard clearly by all who gather. At noon, when the sun is at its apex, it floods the Amphitheatre with light, rising high above the heads of those who have gathered within.
 
 SIGNARUS
+Hidden beneath the earth is a massive vault, guarded by both physical defenses and powerful wards. Throughout history, many ancient artefacts have surfaced, and since the time of the first Grand Magister, SOlana has been retrieving these items and keeping them safe from those who might use thems for nefarious purposes. The Signarus remains a well-guarded secret, known only to the highest-ranking members of the Light of Sol.
 
 
--
+15 -
+
+
+LIBRARY OF ILLUMINATION
+Those seeking knowledge travel to Solana for the sole purpose of visiting the Library of Illumination, a vast library located at the base of the Solarium. A grand sight, the floor is constructed from lustrous marble, with floor-to-ceiling shelves containing thousands of tomes and volumes, as well as bound parchments authored by the scholars of Solana. Great mosaics decorate the floors, depicting the history of Solana and its people. Massive statues stand in a semi-circle at the centre of the main foyer, depicting the five Grand Magisters in ivory and gold, their impassive masks silently watching the scholars working below.
+
+Any Solanian can enter and read the tomes found within the library, which include Solanian history, and information on the various districts of Solana. It also houses public records, suchas family trees or details on significant individuals. Great tables line the hallways of the Library of Illumination, with spaces for any visitors to read and study. Travellers visiting Solana from beyond the city are also welcome to spend time here. The lower levels of the library, however, are located beneath the earth, and are only available to members of the Light of Sol.
+
+
+17 -
+
+
+CHILDREN OF THE LIGHT
+While all those who accept Sol into their hearts shall receive Sol's blessings, only those who have fully eradicated the darkness within can be known as Children of the Light. These are the true Solanians, citizens who live within the city walls, many of whom are descendants of the original founders of Solana.
+
+Villages and towns beyond the city walls are home to those who once lived outside of Sol's guidance, but chose to welcome Sol's light into their hearts. With time, they may work towrd true illumination, and their children may one day be accepted into the city proper and given a home within the city walls.
+
+
+18 -
+
+
+ORDER OF THE LIGHT
+The Light is the lifeblood of Solana, a radiant energy borne of Sol. It is knownledge, wisdom and integrity; it is valour and loyalty. The Light guided Solana's founders to the shores of Rathe, it showed them where to build their home; it is what protects the city from the Shadows. Solana is blessed by the splendour of Sol, a radiant figure that has guided Solana to become the shining example for all Rathe to follow.
+
+The Order of the Light was borne of these ancestors, noble men and women who seek to spread Sol's blessings and watch over the people of Solana. The Light of Sol is comprised of scholars, those born with a connection to light magic, studying spells in order to help their fellow man. The Hand of Sol are Solana's warriors, dedicated to protecting and watching over their people.
+
+
+19 -
+
+
+[/
+
+THE AWAKENING
+
+When a child of Solana turns eight years old, an archon will come to lead them to a room within the Solarium, in order to conduct the Awakening ceremony. This sacred space is filled with items, from ancient tomes to swords and shields, smithing hammers to aprons and looms; every trade and profession in Solana is represented within. Once the ceremony begins, one of the items within the room will resonate with Sol's light and begin to glow, revealing the child's divine purpose. Many families within Solana have passed down their trades through the generation, honing their craft through Sol's divine guidance.
+
+/]
+
+SEEKERS AND SCHOLARS
+Every scholar first starts their training as a seeker, chosen by Sol to fulfil a divine purpose. Their affinity with the light gives them an incredible gift, a spark that can be cultivated into light magic, the very essence of Sol's blessings. A seeker's training begins with academia, studying the history of Solana and learning arithmetic.
+
+Once the first eight years of training are completed, seekers graduate and become acolytes, and begin working in the Library of Illumination. In affition to clerical duties, organisation, and recording information, acolytes will study light magic, and begin the delicate process of developing and training their magical abilities. It can take up to twenty years for an acolyte to become a scholar, depending entirely on their talent, skill and dedication.
+
+THE LIGHT OF SOL
+There are over thirty thousand scholars in the Light of Sol. Trained in light magic, they study aether and the doctrine of Sol in order to spread the blessings of the Light. Scholars are the lifeline of the Kingdom, providing a variety of services to their people. Many scholars work within the Library of Illumination, recording and preserving information for future generations. Working in the library is considered a great honour, as their work serves to preserve the history and very soul of Solana. Some scholars will go on to contribute their own works to the library, expanding a vast collection of original manuscripts. Other scholars may journey outside the walls, working alongside knights from the Hand of Sol, and joining the parties in their expeditions and patrols.
+
+Some scholars help to maintain sigils and protective wards around the city; some act as healers within the community, aiding the sick and injured; others work as teachers,
+
+
+20 -
+
+
+x
+
+
+21 -
+
+
+x
+
+
+22 -
+
+
+x
+
+
+23 -
+
+x
+
+
+25 -
 
 
 DORlNTHIA IRONSONG

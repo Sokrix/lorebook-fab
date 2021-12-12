@@ -1,0 +1,274 @@
+1 -
+
+
+Les jeux de cartes à collectionner sont un incroyable moyen de rassembler les gens. Leur force unificatrice transcende l'âge, la race, la religion, le sexe et même le statut social, à travers un langage commun, celui de "jouer à de grands jeux".
+
+
+3 -
+
+
+LE NOUVEAU TCG CLASSIQUE
+Flesh and Blood
+BIENVENUE À RATHE
+
+
+4 -
+
+
+[PAGE MANQUANTE]
+
+
+5 -
+
+
+BIENVENUE À RATHE
+
+SOMMAIRE
+
+Le monde de Rathe
+Régions
+Professions
+
+Solana
+
+Dorinthea Ironsong : Le conte du chevalier surdoué
+
+Les Terres Sauvages
+Bestiaire de Scarborough
+Le Compendium Botanique
+
+Rhinar, Fureur Dangereuse : Les lois de la chasse
+
+Misteria
+
+Katsu, le vagabond : Les vents du changement
+
+Aria
+
+Bravo, l'extraordinaire: La star du spectacle
+
+Concepts de développement
+
+Arcane Rising 2020
+
+
+6 -
+
+
+LE MONDE DE RATHE
+
+Il y a longtemps, les humains sont arrivés sur les rives de Rathe en provenance d'une terre lointaine, à la recherche d'un endroit où construire leurs maisons. Ils ont trouvé un monde fait de vastes chaînes de montagnes et de plaines volcaniques, de jungles denses et de falaises abruptes, de prairies verdoyantes et de forêts iridescentes. C'est Rathe, une terre alimentée par la magie. Autrefois foyer d'êtres incroyables dépassant l'imagination, les humains ont envahi la terre, se répandant sur le continent et changeant la terre autour d'eux. Certains ont appris à exploiter la magie innée de ce monde et à la manier au combat, d'autres ont choisi de s'appuyer sur la technologie et l'innovation humaine.
+
+
+7 -
+
+
+Autrefois, les humains de ce monde étaient en guerre, s'affrontant dans des batailles dévastatrices qui décimaient le pays. Pendant un temps, il semblait presque que l'humanité serait incapable de vivre les uns à côté des autres - mais après plusieurs centaines d'années, Rathe est finalement entré dans une nouvelle ère de paix. Le peuple de Misteria se retira dans les montagnes, Aria érigea de grandes barrières pour protéger son royaume des étrangers, et le royaume de Solana se concentra sur la diffusion de la Lumière. L'empire de Volcor s'est transformé en un état de guerre constant, ses nombreux généraux se battant entre eux pour les terres et les ressources, tandis que loin au nord, une cité étincelante de cuivre et de verre a émergé, attirant des individus aux vues similaires et tournés vers l'avenir.
+
+Aujourd'hui, cette ère de paix menace de sombrer à nouveau dans le chaos. Le peuple de Rathe est devenu agité alors que les graines de la dissidence prennent racine sur le continent, et le monde est à nouveau au bord de la guerre.
+
+
+8 -
+
+REGIONS
+
+SOLANA
+Au centre de Rathe se trouve Solana, une radieuse lueur d'espoir dans un monde au bord du chaos. Pendant des milliers d'années, elle a prospéré sous la direction d'érudits dévoués, cherchant à répandre la gloire et les enseignements de Sol à travers Rathe, et à unir l'humanité sous une seule bannière.
+
+LES TERRES SAUVAGE
+Une jungle primordiale, ce paysage traître et impitoyable est rempli de dangers cachés et de bêtes horribles. Des prédateurs massifs aux charognards vicieux, des champignons vénéneux aux plantes carnivores, les Terres sauvages abritent certains des animaux sauvages les plus dangereux connus de Rathe.
+
+METRIX
+Ville dynamique et animée, Metrix est le plus grand centre de commerce du continent. Elle est fière de sa quête du progrès et de l'avenir de la technologie. Qu'il s'agisse de scientifiques ou d'inventeurs, de marchands ou de mineurs, Metrix attire tous ceux qui cherchent fortune et la promesse d'un avenir meilleur.
+
+DÉMONASTERIE
+Loin au-delà des côtes de Rathe se trouve une île enveloppée de brume, un manoir massif et délabré dominant le paysage désolé. la Démonasterie appelle les magiciens et les scientifiques, offrant un endroit pour étudier des sujets tabous et interdits sans la menace d'une punition ou d'un châtiment.
+
+ARIA
+Un royaume fantastique où le paysage est en perpétuel changement, alimenté par une énergie magique connue sous le nom de Flux. Dans les paisibles villages d'Aria, les célébrations et les festivals sont monnaie courante, avec des artistes, des musiciens et des animateurs.
+
+MISTERIA
+Parmi les chaînes de montagnes de Misteria se trouve un monde caché, dissimulé par un épais voile de brume. Loin des luttes et des conflits du monde extérieur, ils trouvent leur satisfaction dans l'introspection et l'autodiscipline, s'entraînant rigoureusement pour renforcer leur corps et aiguiser leur esprit.
+
+LA FOSSE
+Sous la ville de Metrix, des siècles d'exploitation minière ont laissé une série d'énormes cavernes souterraines. Des voleurs, des mercenaires, des esclavagistes et des contrebandiers se sont installés dans les cavernes sombres de La Fosse, fournissant toutes sortes de services immoraux et illégaux au monde d'en haut.
+
+VOLCOR
+Des rivières de lave coulent à travers Volcor, se transformant en d'énormes lacs de magma en fusion. Les citoyens de Volcor sont résignés à une vie de servitude sous les ordres des généraux, enfermés dans une guerre constante, luttant pour leur vie sous le regard attentif de la famille royale.
+
+
+9 -
+
+
+PROFESSIONS
+
+Dans un monde en proie aux guerres et aux conflits, le peuple de Rathe a développé des moyens de se protéger et de lutter contre ses ennemis. Même après des siècles de paix, ces professions perdurent, transmises de génération en génération, évoluant au fil des ans. Alors que certains ont choisi une profession plus offensive, reposant sur les armes et le pouvoir, d'autres ont choisi la voie de la défense, trouvant des moyens de se protéger et d'aider leurs alliés au combat.
+
+ALCHIMISTE
+
+ASSASSIN
+
+GUARDIEN
+
+BRUTE
+
+SORCIER
+
+BARDE
+
+ILLUSIONNISTE
+
+NINJA
+
+NÉCROMANCIEN
+
+PRÊTRE
+
+GUERRIER
+
+ARCHER
+
+ET BIEN D'AUTRES ENCORE
+
+Que vous tiriez votre pouvoir de la magie et des sorts, du maniement de n'importe quelle arme artificielle ou de l'utilisation du pouvoir intérieur, le résultat est le même. Dans un monde en proie à des conflits, vous devez vous battre pour avoir la chance de déterminer votre destin. Succomberez-vous aux machinations des autres, ou choisirez-vous votre propre voie ? Prenez votre épée et préparez-vous au combat, car peu importe où vous courez, la guerre vous trouvera.
+
+
+11 -
+
+
+SOLANA
+
+ROYAUME DE L'ILLUMINATION
+
+Les légendes parlent de pèlerins bénis venus d'une terre lointaine, attirés à Rathe par la volonté de Sol. Sur une terre sacrée, ils ont construit Solana, un royaume brillant qui résisterait éternellement à l'Ombre.
+
+La ville se dresse depuis des milliers d'années, prospérant sous la direction d'érudits dévoués et de magiciens de la lumière. Des chevaliers et des templiers patrouillent ses murs, la défendant de ceux qui voudraient s'opposer à son objectif divin.
+
+Un jour, la lumière de Sol rayonnera dans tout le pays et apportera des bénédictions à toute l'humanité.
+
+[/
+
+ÊTRE UN SOLANIEN
+
+Les habitants de Solana honorent Sol dans tous les aspects de leur vie. Des jeunes aux vieux, des érudits aux fermiers, de ceux qui vivent dans ses murs à ceux qui vivent au-delà ; tous se réjouissent de la sagesse et de la gloire infinies de Sol.
+
+Les Solaniens sont très fiers de faire respecter la volonté de Sol, croyant qu'ils sont les émissaires divins de Sol. Chaque Solanien doit agir avec courage et honneur, car il est l'incarnation vivante de Sol.
+
+Portant la gloire de Sol dans leur cœur, ils cherchent à diffuser les enseignements de la lumière au reste de l'humanité, et accueillent tous ceux qui cherchent la bénédiction de Sol.
+
+Tous ceux qui embrassent pleinement la lumière de Sol sont accueillis par le peuple de Solana comme l'un des leurs. Ceux qui sont encore sur le chemin de l'illumination reçoivent une place dans les villages extérieurs de Solana.
+
+Ces villages, ainsi que toute communauté qui embrasserait la lumière divine de Sol, bénéficient de la protection du pouvoir de Solana.
+
+/]
+
+
+12 -
+
+
+UN ROYAUME RADIEUX
+
+Au centre de Rathe se trouve Solana, une radieuse lueur d'espoir dans un monde au bord du chaos. Au-delà de ses grandes portes se trouve une belle cité de marbre et de pierre, chère à tous les fidèles et les justes qui l'appellent chez eux.
+
+Autrefois un petit village, la sagesse de Sol a guidé la ville à travers les âges. Tout cela dans le but divin de Sol. Devenu un puissant royaume, le plus puissant du pays, son peuple cherche à répandre la gloire et les enseignements de Sol à travers Rathe et à unir l'humanité sous une seule bannière.
+
+Au-delà de la ville se trouvent les ténèbres. Le crime, la corruption, la cupidité et toutes sortes de maux. Pire que tout, une jungle de monstres et de bêtes à l'ouest profane la terre avec leur existence putride. Il semble que partout où l'on regarde, il n'y a rien d'autre que la corruption et le désespoir ; une tache sombre sur le cœur de l'homme qui se répand comme un poison.
+
+Mais il y a encore de l'espoir. L'espoir dans les Solaniens. L'espoir d'un avenir de rédemption et de salut.
+
+
+13 -
+
+
+LA CITÉ D'OR
+
+Au centre de Rathe se dresse une ville magnifique, qui domine les champs d'or qui l'entourent. Ses murs brillants reflètent la lumière du soleil et brillent de mille feux, tandis que des chevaliers vêtus d'argent et d'or patrouillent ses frontières. Dans les champs au-delà, des villages sont nichés dans les plaines fertiles, en sécurité sous le regard attentif de leur grand protecteur. C'est le royaume de Solana, une lueur d'espoir parmi les ténèbres du monde.
+
+Ceux qui franchissent ses grandes portes découvrent une cité extraordinaire, construite pour illustrer la majesté divine de Sol. D'un mur à l'autre, ses rues de pierre sont bordées de maisons joyeuses et de toits voûtés, les bannières colorées se balançant au gré de la brise. Au cœur de la ville, une série massive de tours s'élève au-dessus des rues en contrebas - le magnifique Solarium, joyau précieux de Solana.
+
+L'élégance et la symétrie de la ville sont évidentes pour tous ceux qui y pénètrent. 8 secteurs de la ville s'étendent au-delà de ses 8 portes imposantes, avec 8 grandes allées menant à l'amphithéâtre situé au cœur de la ville. L'amphithéâtre a été construit selon la volonté divine de Sol, imprégné de protections magiques pour protéger tous ceux qui l'habitent.
+
+Bibliothèque de l'illumination
+Une bibliothèque publique, entretenue par les membres de la Lumière de Sol.
+
+Le Solarium
+Le sanctuaire intérieur, qui abrite la lumière de Sol.
+
+L'amphithéâtre
+Un espace pour les cérémonies, les événements publics et les proclamations.
+
+Le Silvaris
+Une série de magnifiques jardins publics entourant le sanctuaire intérieur de Solana.
+
+Les Plazas
+Elles relient les secteurs extérieurs de la ville et sont un lieu de rassemblement pour écouter les nouvelles.
+
+Les grandes portes
+Huit chemins traversent la ville jusqu'au Solarium.
+
+Les champs d'or
+Au-delà des murs extérieurs se trouvent de grands champs dorés, de nombreux villages et villes sous la protection et la direction de Solana.
+
+
+14 -
+
+
+SOLARIUM
+Au cœur de la ville se trouve le Solarium, un complexe massif de tours brillantes qui s'élèvent au-dessus des rues de Solana. Construit il y a longtemps à partir des meilleurs matériaux, il est éternel, un rappel intemporel de la gloire de Sol. Irradiant de blanc et d'or, il reste visible de tous les coins de la ville, et peut être vu de loin au-delà des champs d'or. Toutes les rues mènent au Solarium et à l'amphithéâtre massif qui se trouve en son centre, un espace où tous les Solaniens se rassemblent pour écouter le monde de Sol. Il y a même ceux qui voyagent depuis des terres lointaines dans l'espoir de voir la grandeur du Solarium.
+
+Entre le Solarium et le reste de la ville, un large éventail de jardins entoure les tours rayonnantes dans une couverture de couleurs vibrantes. Les habitants de Solana visitent fréquemment les jardins, se promenant parmi les arbres et appréciant les nombreuses plantes qui poussent le long de ses frontières. Des grands arbres d'un vert verdoyant aux fleurs d'un violet éclatant, les jardins sont une explosion de couleurs face au blanc éclatant du Solarium. Presque toutes les plantes de Rathe peuvent être trouvées dans les jardins de Solana, y compris des herbes réparatrices et des ingrédients pour les sorts, soigneusement cultivés par la lumière de Sol.
+
+AMPHITHEATRE
+Dans le Grand Hall, sous des arches voûtées, se trouve une grande porte ouverte. À l'intérieur, une structure massive de marbre pâle et de pierre brillante : l'amphithéâtre. Situé au cœur du Solarium, il est le bienvenu pour tous ceux qui cherchent la sagesse de Sol. Même en se tenant au plus haut niveau de l'amphithéâtre, on peut entendre clairement les mots prononcés au rez-de-chaussée. Grâce à la magie de Sol, le Grand Magistère peut s'adresser à son peuple, entendu clairement par tous ceux qui se rassemblent. À midi, lorsque le soleil est à son apogée, il inonde l'amphithéâtre de lumière, s'élevant bien au-dessus de la tête de ceux qui s'y sont rassemblés.
+
+SIGNARUS
+Cachée sous la terre se trouve une voûte massive, gardée à la fois par des défenses physiques et de puissants gardiens. Au cours de l'histoire, de nombreux artefacts anciens ont fait surface, et depuis l'époque du premier Grand Magistère, Sorelana a récupéré ces objets et les a gardés à l'abri de ceux qui pourraient les utiliser à des fins néfastes. Le Signarus reste un secret bien gardé, connu uniquement des membres les plus haut placés de la Lumière de Sol.
+
+
+15 -
+
+
+BIBLIOTHÈQUE DE L'ILLUMINATION
+Ceux qui recherchent le savoir se rendent à Solana dans le seul but de visiter la Bibliothèque de l'Illumination, une vaste bibliothèque située à la base du Solarium. Le sol est fait de marbre lustré, avec des étagères du sol au plafond contenant des milliers de tomes et de volumes, ainsi que des parchemins reliés rédigés par les érudits de Solana. De grandes mosaïques décorent les sols, décrivant l'histoire de Solana et de son peuple. Des statues massives se dressent en demi-cercle au centre du foyer principal, représentant les cinq Grands Magistères en ivoire et en or, leurs masques impassibles observant en silence les érudits qui travaillent en dessous.
+
+Tout Solanien peut entrer et lire les tomes qui se trouvent dans la bibliothèque, qui comprennent l'histoire de Solan et des informations sur les différents districts de Solana. Elle abrite également des documents publics, comme des arbres généalogiques ou des détails sur des personnes importantes. De grandes tables bordent les couloirs de la Bibliothèque des Illuminations, avec des espaces pour que les visiteurs puissent lire et étudier. Les voyageurs visitant Solana depuis l'extérieur de la ville sont également invités à passer du temps ici. Les niveaux inférieurs de la bibliothèque, cependant, sont situés sous la terre et ne sont accessibles qu'aux membres de la Lumière de Sol.
+
+
+17 -
+
+
+LES ENFANTS DE LA LUMIÈRE
+Bien que tous ceux qui acceptent Sol dans leur cœur reçoivent les bénédictions de Sol, seuls ceux qui ont complètement éradiqué les ténèbres en eux peuvent être connus comme des enfants de la lumière. Ce sont les vrais Solaniens, les citoyens qui vivent à l'intérieur des murs de la ville, dont beaucoup sont des descendants des premiers fondateurs de Solana.
+
+Les villages et les villes au-delà des murs de la ville abritent ceux qui vivaient autrefois en dehors de l'autorité de Sol, mais qui ont choisi d'accueillir la lumière de Sol dans leur cœur. Avec le temps, ils peuvent travailler à la véritable illumination, et leurs enfants peuvent un jour être acceptés dans la ville proprement dite et recevoir une maison à l'intérieur des murs de la ville.
+
+
+18 -
+
+
+L'ORDRE DE LA LUMIÈRE
+La lumière est l'élément vital de Solana, une énergie rayonnante issue de Sol. C'est la connaissance, la sagesse et l'intégrité ; c'est la vaillance et la loyauté. La lumière a guidé les fondateurs de Solana jusqu'aux rives de Rathe, elle leur a montré où construire leur maison ; c'est elle qui protège la ville des ombres. Solana est bénie par la splendeur de Sol, une figure rayonnante qui a guidé Solana pour qu'elle devienne un exemple à suivre pour tous les Rathe.
+
+L'Ordre de la Lumière est né de ces ancêtres, des hommes et des femmes nobles qui cherchent à répandre les bénédictions de Sol et à veiller sur le peuple de Solana. La Lumière de Sol est composée d'érudits, ceux qui sont nés avec un lien avec la magie de la lumière, étudiant les sorts afin d'aider leur prochain. La Main de Sol est composée de guerriers de Solana, qui se consacrent à la protection et à la surveillance de leur peuple.
+
+
+19 -
+
+
+[/
+
+L'ÉVEIL
+
+Lorsqu'un enfant de Solana atteint l'âge de huit ans, un archonte vient le conduire dans une pièce du Solarium, afin de mener la cérémonie de l'Éveil. Cet espace sacré est rempli d'objets, des tomes anciens aux épées et boucliers, des marteaux de forgeron aux tabliers et métiers à tisser ; tous les métiers et professions de Solana y sont représentés. Une fois la cérémonie commencée, l'un des objets de la pièce résonnera avec la lumière de Sol et commencera à briller, révélant le but divin de l'enfant. De nombreuses familles de Solana ont transmis leur métier de génération en génération, affinant leur art grâce aux conseils divins de Sol.
+
+/]
+
+CHERCHEURS ET ÉRUDITS
+Chaque érudit commence sa formation en tant que chercheur, choisi par Sol pour remplir un objectif divin. Leur affinité avec la lumière leur confère un don incroyable, une étincelle qui peut être cultivée en magie de lumière, l'essence même des bénédictions de Sol. La formation d'un chercheur commence par un enseignement académique, l'étude de l'histoire de Solana et l'apprentissage de l'arithmétique.
+
+Une fois les huit premières années de formation terminées, les chercheurs obtiennent leur diplôme, deviennent acolytes et commencent à travailler dans la bibliothèque d'illumination. En plus des tâches de bureau, d'organisation et d'enregistrement des informations, les acolytes étudieront la magie légère et commenceront le délicat processus de développement et d'entraînement de leurs capacités magiques. Cela peut prendre jusqu'à vingt ans pour qu'un acolyte devienne un érudit, en fonction de son talent, de ses compétences et de son dévouement.
+
+LA LUMIÈRE DU SOL
+Il y a plus de trente mille érudits dans la Lumière de Sol. Formés à la magie de la lumière, ils étudient l'éther et la doctrine de Sol afin de répandre les bienfaits de la Lumière. Les érudits sont la force vitale du Royaume, fournissant une variété de services à leur peuple. De nombreux érudits travaillent dans la Bibliothèque de l'Illumination, enregistrant et préservant les informations pour les générations futures. Travailler dans la bibliothèque est considéré comme un grand honneur, car leur travail sert à préserver l'histoire et l'âme même de Solana. Certains érudits contribueront à la bibliothèque par leurs propres travaux, enrichissant ainsi une vaste collection de manuscrits originaux. D'autres érudits peuvent voyager à l'extérieur des murs, travaillant aux côtés des chevaliers de la Main de Sol, et se joignant aux groupes dans leurs expéditions et patrouilles.
+
+Certains érudits aident à maintenir les sigles et les protections autour de la ville ; certains agissent en tant que guérisseurs au sein de la communauté, aidant les malades et les blessés ; d'autres travaillent comme enseignants,
